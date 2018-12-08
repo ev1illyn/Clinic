@@ -1,0 +1,15 @@
+div > .segment > .form > .info {
+	text-transform: uppercase;
+}
+.heartbeat {
+	animation-duration: 1s;
+	}
+.column > .segment > .colorOne, .menu > .item > .colorOne {
+	color: red;
+}
+.fields > .field > label {
+	text-align: left;
+}
+body > .h > .image{
+	height: 70px;
+}
